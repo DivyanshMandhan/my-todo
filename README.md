@@ -1,16 +1,29 @@
-# todo
+# My Todo application
 
-A new Flutter project.
+An application to manage your tasks with firebase as backend.
+![My Todo](https://user-images.githubusercontent.com/57166270/177342471-4f4fb106-379f-4b96-bb6b-a1a70f2d4805.png)
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+Onboarding - 1             |  Onboarding - 2           |  Onboarding - 3
+:-------------------------:|:-------------------------:|:-------------------------:
+![image](https://github.com/DivyanshMandhan/my-todo/blob/master/ss/%20(1).png) | ![image](https://github.com/DivyanshMandhan/my-todo/blob/master/ss/%20(2).png) |![image](https://github.com/DivyanshMandhan/my-todo/blob/master/ss/%20(3).png) 
 
-A few resources to get you started if this is your first Flutter project:
+Welcome Page               |  Register Page            |  Sign Up Page
+:-------------------------:|:-------------------------:|:-------------------------:
+![image](https://github.com/DivyanshMandhan/my-todo/blob/master/ss/%20(4).png) | ![image](https://github.com/DivyanshMandhan/my-todo/blob/master/ss/%20(5).png) |![image](https://github.com/DivyanshMandhan/my-todo/blob/master/ss/%20(6).png) 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Main Page                  |   Updated Main Page                  
+:-------------------------:|:-------------------------:
+![image](https://github.com/DivyanshMandhan/my-todo/blob/master/ss/%20(8).png) | ![image](https://github.com/DivyanshMandhan/my-todo/blob/master/ss/%20(10).png) 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Create Task                |   Update User                 
+:-------------------------:|:-------------------------:
+![image](https://github.com/DivyanshMandhan/my-todo/blob/master/ss/%20(7).png) | ![image](https://github.com/DivyanshMandhan/my-todo/blob/master/ss/%20(9).png) 
+
+
+
+
+
+
+
